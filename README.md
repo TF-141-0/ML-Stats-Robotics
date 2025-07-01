@@ -1,6 +1,6 @@
 # Roadmap for Machine Learning in Robotics and Statistics
 
-This roadmap is designed for learners who want to combine machine learning with practical experimentation, robotics integration, clean data handling, and interactive dashboard development. It is also forward-compatible with deeper future work in robotics — including control systems, reinforcement learning, and embedded intelligence.
+This roadmap for those who want to combine machine learning with practical experimentation, robotics integration, clean data handling, and interactive dashboard development. It is also forward-compatible with deeper future work in robotics — including control systems, reinforcement learning, and embedded intelligence.
 
 ---
 
