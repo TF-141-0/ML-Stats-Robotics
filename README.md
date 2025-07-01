@@ -4,7 +4,7 @@ This roadmap is designed for learners who want to combine machine learning with 
 
 ---
 
-## Phase 1 1: Core ML Foundations (4–6 weeks)
+## Phase 1: Core ML Foundations (4–6 weeks)
 
 **Tools:**
 - Python (3.10+)
