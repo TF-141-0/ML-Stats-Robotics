@@ -28,7 +28,7 @@ This roadmap for those who want to combine machine learning with practical exper
 
 **Tools:**
 - `scikit-learn`, `matplotlib`, `plotly`, `serial` or `MQTT`
-- ESP32 / Arduino + sensors (optional hardware layer)
+- Arduino + sensors (optional hardware layer)
 
 **Learn:**
 - Feature engineering from sensor data
@@ -86,9 +86,9 @@ This roadmap for those who want to combine machine learning with practical exper
 |--------------------|-----------------------------------------------------|
 | ML & Data           | Python, NumPy, pandas, scikit-learn                |
 | Visualization       | matplotlib, seaborn, plotly                        |
-| Robotics Interface  | Arduino/ESP32 + Serial or UDP                      |
-| Dashboards          | streamlit, plotly, pandas-profiling               |
-| Advanced            | TensorFlow, PyTorch, OpenCV, FastAPI, ROS2        |
+| Robotics Interface  | Serial or UDP                                      |
+| Dashboards          | streamlit, plotly, pandas-profiling                |
+| Advanced            | TensorFlow, PyTorch, OpenCV, FastAPI, ROS2         |
 
 ---
 
